@@ -1,4 +1,5 @@
 # CMPG323-Project4-32681879
+## Description of the task level
 Fourth project of the semester where i will be showcasing Testing and RPA
 
 ## Tasks
@@ -24,7 +25,9 @@ Fourth project of the semester where i will be showcasing Testing and RPA
 - Create a reference list document that contains all sites visited and used to complete the project
 
 ## Usage
-- When using the web qpp,you have to kickstarting the operation by clicking the "Login" so that the robot can take over with the process.
+- When using the web app,you have to kickstarting the operation by clicking the "Login" so that the robot can take over with the process.
+  
+
 
 
 
